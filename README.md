@@ -66,7 +66,8 @@ elmo-hikes/
 
 
 ## Contributors
-- **Hoda1** - testing again
+- **Hoda Rashedi** - BCIT Instructor
+- **Hoda Azizam** - Beyong Being
 ---
 
 
